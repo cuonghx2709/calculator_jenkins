@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cuonghx.cacultor.demo.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-26T07:38:39" hostname="i120882-mb.local" time="0.043">
+  <properties/>
+  <testcase name="testSum()" classname="com.cuonghx.cacultor.demo.CalculatorTest" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
